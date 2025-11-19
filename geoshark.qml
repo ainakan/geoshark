@@ -5,7 +5,7 @@ import QtQuick.Window 2.0
 import QtQuick.Layouts 1.1
 import QtWebKit.experimental 1.0
 
-import Frida 1.0
+import Ainakan 1.0
 
 ApplicationWindow {
     title: qsTr("Hello World")
